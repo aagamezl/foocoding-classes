@@ -1,0 +1,15 @@
+{
+  "name": "first-class",
+  "version": "1.0.0",
+  "description": "THis is our first node.js application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Agamez",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
