@@ -1,0 +1,18 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "honework-cli.js",
+  "type": "module",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
